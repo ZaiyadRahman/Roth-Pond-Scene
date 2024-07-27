@@ -22,30 +22,25 @@ Roth Pond Scene
 
   Assets
   
-    #NVJOB Water Shaders V2
-    
+      NVJOB Water Shaders V2
       For the lake shader
       
     3D Simple Building
-    
       Background buildings
       
     Animated Loading Icons
-    
+  
     Example Assets
     
     Fantasy Environments
-    
       For the trees
       
     living birds
-    
       Used for bird prefabs
       
     Medieval village
     
     Otoh Art
-    
     Fruit art and box art
     
     Planets of the Solar System 3D

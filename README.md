@@ -65,9 +65,8 @@ Roth Pond Scene
     XR
     
     XRI
-    
-  Library
-  ...
+
+    ...
 
 
 

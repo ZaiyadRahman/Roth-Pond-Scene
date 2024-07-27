@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cart
+  - Bottom
+  - lb_bird
+  - lb_groundTarget
+  - BigMap
+  - lb_perchTarget
+  - Apples
+  - Pears
+  - Oranges
+  - Apple Base
+  - Orange Base
+  - Pear Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interactables
+  - Water
+  - UI
+  - Ground
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Teleport
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
